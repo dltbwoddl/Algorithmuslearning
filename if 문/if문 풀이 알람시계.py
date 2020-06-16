@@ -1,4 +1,4 @@
-
+#https://www.acmicpc.net/problem/2884
 #시간:64ms 코드길이:249B
 a=[int(i) for i in input('').split()]
 if a[0]==0:
