@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/1110
 a=[int(i) for i in input()]
 s=a
 if len(a)==1:
