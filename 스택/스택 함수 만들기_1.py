@@ -1,4 +1,3 @@
-#https://www.acmicpc.net/problem/10828
 alist=[]
 ans=[]
 for i in range(0,int(input(''))):

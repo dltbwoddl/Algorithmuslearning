@@ -1,4 +1,3 @@
-#https://www.acmicpc.net/problem/10828
 list=[]
 ans=[]
 def push(list,number):
