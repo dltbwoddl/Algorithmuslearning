@@ -1,4 +1,5 @@
 #시간초과
+#https://wiki.python.org/moin/TimeComplexity
 #remove는 o(n)   
 #https://www.acmicpc.net/problem/11279
 n=int(input(""))
