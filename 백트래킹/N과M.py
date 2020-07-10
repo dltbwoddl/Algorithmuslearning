@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/15649
 n=[int(i) for i in input().split()]
 nl=[i for i in range(1,n[0]+1)]
 global j
